@@ -1,0 +1,10 @@
+<?xml version= "1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="hello.xsl"?>
+<student>
+<name>Subash Danuwar</name>
+<address> Pepsicola, Townplanning </address>
+<age>22</age>
+<email>suwasdanuwar18@gmail.com</email>
+</student>
+
